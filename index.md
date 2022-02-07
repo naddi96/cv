@@ -18,7 +18,7 @@ Degree in Computer Science** University of Tor Vergata - Rome, Italy (sep 2019 -
 
 **Block Chat, NFT for chatting** 
 - Dapp for allowing celebrities to mint their nft and enabling their followers to chat with them
-- Built using **reactJS** as frontend and **python-flask** ad a API backend for managing the chats  
+- Built using **reactJS** as frontend and **python-flask** as a API backend for managing the chats  
 
 **Machine learning project**
 - Application and comparison of various machine learning techniques in  a node classification task inside a graph 
