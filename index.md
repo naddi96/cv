@@ -5,8 +5,7 @@
 
 ## 🎓 Education
 
-**Now attending Master
-Degree in Computer Science** University of Tor Vergata - Rome, Italy (sep 2019 - apr 2022)
+**Master Degree in Computer Science** University of Tor Vergata - Rome, Italy (sep 2019 - apr 2022)
 
 **Bachelor  Degree in Computer Science** University of Tor Vergata - Rome, Italy (sep 2015 - feb 2019)
 
