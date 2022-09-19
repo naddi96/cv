@@ -55,3 +55,6 @@ organized by ijgd
 - 2018 Tor Vergata Hackathon - **Organizer** 
 - 2017 international work-camp as **Team Leader** at Camerata Nuova,Italy organized by YAP
 - 2015 international work-camp as Participant at Saint-Pal-de-Mons France organized by De Amicitia
+- 2022 international work-camp as  **Team Leader** at Valpolicella,Italy with lunaria
+- 2022 international work-camp as  **Team Leader** at Drei Eichen, Besucherzentrum für Natur- und Umwelterziehung,Germany with ijgd
+- 2022 international work-camp as  **Team Leader** at Drei Eichen,  Gahlen,Germany with ijgd
